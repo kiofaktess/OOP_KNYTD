@@ -1,0 +1,7 @@
+D:\ynik\OOP\OOP_Lab4\OOP_Lab4\bin\Debug\OOP_Lab4.exe.config
+D:\ynik\OOP\OOP_Lab4\OOP_Lab4\bin\Debug\OOP_Lab4.exe
+D:\ynik\OOP\OOP_Lab4\OOP_Lab4\bin\Debug\OOP_Lab4.pdb
+D:\ynik\OOP\OOP_Lab4\OOP_Lab4\obj\Debug\OOP_Lab4.csproj.AssemblyReference.cache
+D:\ynik\OOP\OOP_Lab4\OOP_Lab4\obj\Debug\OOP_Lab4.csproj.CoreCompileInputs.cache
+D:\ynik\OOP\OOP_Lab4\OOP_Lab4\obj\Debug\OOP_Lab4.exe
+D:\ynik\OOP\OOP_Lab4\OOP_Lab4\obj\Debug\OOP_Lab4.pdb
