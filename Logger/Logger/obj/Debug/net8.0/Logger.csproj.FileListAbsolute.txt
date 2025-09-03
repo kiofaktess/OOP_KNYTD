@@ -1,0 +1,14 @@
+D:\ynik\Logger\Logger\Logger\bin\Debug\net8.0\Logger.exe
+D:\ynik\Logger\Logger\Logger\bin\Debug\net8.0\Logger.deps.json
+D:\ynik\Logger\Logger\Logger\bin\Debug\net8.0\Logger.runtimeconfig.json
+D:\ynik\Logger\Logger\Logger\bin\Debug\net8.0\Logger.dll
+D:\ynik\Logger\Logger\Logger\bin\Debug\net8.0\Logger.pdb
+D:\ynik\Logger\Logger\Logger\obj\Debug\net8.0\Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\ynik\Logger\Logger\Logger\obj\Debug\net8.0\Logger.AssemblyInfoInputs.cache
+D:\ynik\Logger\Logger\Logger\obj\Debug\net8.0\Logger.AssemblyInfo.cs
+D:\ynik\Logger\Logger\Logger\obj\Debug\net8.0\Logger.csproj.CoreCompileInputs.cache
+D:\ynik\Logger\Logger\Logger\obj\Debug\net8.0\Logger.dll
+D:\ynik\Logger\Logger\Logger\obj\Debug\net8.0\refint\Logger.dll
+D:\ynik\Logger\Logger\Logger\obj\Debug\net8.0\Logger.pdb
+D:\ynik\Logger\Logger\Logger\obj\Debug\net8.0\Logger.genruntimeconfig.cache
+D:\ynik\Logger\Logger\Logger\obj\Debug\net8.0\ref\Logger.dll
