@@ -1,0 +1,10 @@
+D:\ynik\OOP\OOPLAB3WIN\OOPLAB3WIN\bin\Debug\OOPLAB3WIN.exe.config
+D:\ynik\OOP\OOPLAB3WIN\OOPLAB3WIN\bin\Debug\OOPLAB3WIN.exe
+D:\ynik\OOP\OOPLAB3WIN\OOPLAB3WIN\bin\Debug\OOPLAB3WIN.pdb
+D:\ynik\OOP\OOPLAB3WIN\OOPLAB3WIN\obj\Debug\OOPLAB3WIN.csproj.AssemblyReference.cache
+D:\ynik\OOP\OOPLAB3WIN\OOPLAB3WIN\obj\Debug\OOPLAB3WIN.Form1.resources
+D:\ynik\OOP\OOPLAB3WIN\OOPLAB3WIN\obj\Debug\OOPLAB3WIN.Properties.Resources.resources
+D:\ynik\OOP\OOPLAB3WIN\OOPLAB3WIN\obj\Debug\OOPLAB3WIN.csproj.GenerateResource.cache
+D:\ynik\OOP\OOPLAB3WIN\OOPLAB3WIN\obj\Debug\OOPLAB3WIN.csproj.CoreCompileInputs.cache
+D:\ynik\OOP\OOPLAB3WIN\OOPLAB3WIN\obj\Debug\OOPLAB3WIN.exe
+D:\ynik\OOP\OOPLAB3WIN\OOPLAB3WIN\obj\Debug\OOPLAB3WIN.pdb

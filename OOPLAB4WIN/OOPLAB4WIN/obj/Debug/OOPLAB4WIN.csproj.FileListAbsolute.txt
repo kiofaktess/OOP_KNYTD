@@ -1,0 +1,10 @@
+D:\ynik\OOP\OOPLAB4WIN\OOPLAB4WIN\bin\Debug\OOPLAB4WIN.exe.config
+D:\ynik\OOP\OOPLAB4WIN\OOPLAB4WIN\bin\Debug\OOPLAB4WIN.exe
+D:\ynik\OOP\OOPLAB4WIN\OOPLAB4WIN\bin\Debug\OOPLAB4WIN.pdb
+D:\ynik\OOP\OOPLAB4WIN\OOPLAB4WIN\obj\Debug\OOPLAB4WIN.csproj.AssemblyReference.cache
+D:\ynik\OOP\OOPLAB4WIN\OOPLAB4WIN\obj\Debug\OOPLAB4WIN.Form1.resources
+D:\ynik\OOP\OOPLAB4WIN\OOPLAB4WIN\obj\Debug\OOPLAB4WIN.Properties.Resources.resources
+D:\ynik\OOP\OOPLAB4WIN\OOPLAB4WIN\obj\Debug\OOPLAB4WIN.csproj.GenerateResource.cache
+D:\ynik\OOP\OOPLAB4WIN\OOPLAB4WIN\obj\Debug\OOPLAB4WIN.csproj.CoreCompileInputs.cache
+D:\ynik\OOP\OOPLAB4WIN\OOPLAB4WIN\obj\Debug\OOPLAB4WIN.exe
+D:\ynik\OOP\OOPLAB4WIN\OOPLAB4WIN\obj\Debug\OOPLAB4WIN.pdb
