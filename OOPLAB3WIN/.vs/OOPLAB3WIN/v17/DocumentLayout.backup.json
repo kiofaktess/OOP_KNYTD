@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{4C7B0E2A-7BA3-416C-8945-6B8B60C27F6D}|OOPLAB3WIN\\OOPLAB3WIN.csproj|solutionrelative:ooplab3win\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C7B0E2A-7BA3-416C-8945-6B8B60C27F6D}|OOPLAB3WIN\\OOPLAB3WIN.csproj|d:\\ynik\\oop\\ooplab3win\\ooplab3win\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4C7B0E2A-7BA3-416C-8945-6B8B60C27F6D}|OOPLAB3WIN\\OOPLAB3WIN.csproj|D:\\ynik\\OOP\\OOPLAB3WIN\\ooplab3win\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4C7B0E2A-7BA3-416C-8945-6B8B60C27F6D}|OOPLAB3WIN\\OOPLAB3WIN.csproj|solutionrelative:ooplab3win\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "OOPLAB3WIN\\Form1.cs",
               "ToolTip": "D:\\ynik\\OOP\\OOPLAB3WIN\\OOPLAB3WIN\\Form1.cs",
               "RelativeToolTip": "OOPLAB3WIN\\Form1.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAYwGoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-10T20:40:52.337Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "D:\\ynik\\OOP\\OOPLAB3WIN\\OOPLAB3WIN\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "OOPLAB3WIN\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T20:40:05.866Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-09-10T20:40:05.866Z"
             }
           ]
         }

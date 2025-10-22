@@ -202,6 +202,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::OOPLAB4WIN.Properties.Resources.background;
             this.ClientSize = new System.Drawing.Size(470, 370);
             this.Controls.Add(this.txtCourse);
             this.Controls.Add(this.label7);

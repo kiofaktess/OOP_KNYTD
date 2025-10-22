@@ -31,7 +31,6 @@
             this.button2 = new System.Windows.Forms.Button();
             this.listBoxStudents = new System.Windows.Forms.ListBox();
             this.btnAdd = new System.Windows.Forms.Button();
-            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             this.txtExam3 = new System.Windows.Forms.TextBox();
             this.txtExam2 = new System.Windows.Forms.TextBox();
             this.txtExam1 = new System.Windows.Forms.TextBox();
@@ -70,6 +69,7 @@
             this.btnAdd.TabIndex = 23;
             this.btnAdd.Text = "Додати студента";
             this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // txtExam3
             // 
@@ -155,6 +155,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::OOPLAB2WIN.Properties.Resources.background;
             this.ClientSize = new System.Drawing.Size(408, 379);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.listBoxStudents);
