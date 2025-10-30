@@ -76,17 +76,45 @@ namespace OOPLAB4WIN
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrWhiteSpace(txtSurname.Text) ||
+                string.IsNullOrWhiteSpace(txtPhone.Text) ||
+                string.IsNullOrWhiteSpace(txtExam1.Text) ||
+                string.IsNullOrWhiteSpace(txtExam2.Text) ||
+                string.IsNullOrWhiteSpace(txtExam3.Text) ||
+                string.IsNullOrWhiteSpace(txtGroup.Text) ||
+                string.IsNullOrWhiteSpace(txtCourse.Text))
+            {
+                MessageBox.Show("Будь ласка, заповніть усі поля!");
+                return;
+            }
+
+            if (!int.TryParse(txtExam1.Text, out int e1) ||
+                !int.TryParse(txtExam2.Text, out int e2) ||
+                !int.TryParse(txtExam3.Text, out int e3) ||
+                !int.TryParse(txtCourse.Text, out int course))
+            {
+                MessageBox.Show("Поля з оцінками та курсом повинні містити лише цифри!");
+                return;
+            }
+
+            if (e1 < 1 || e1 > 100 || e2 < 1 || e2 > 100 || e3 < 1 || e3 > 100)
+            {
+                MessageBox.Show("Оцінки повинні бути у межах від 1 до 12!");
+                return;
+            }
+
             Student st = new Student(
                 txtSurname.Text,
                 txtPhone.Text,
-                int.Parse(txtExam1.Text),
-                int.Parse(txtExam2.Text),
-                int.Parse(txtExam3.Text),
+                e1,
+                e2,
+                e3,
                 txtGroup.Text,
-                int.Parse(txtCourse.Text)
+                course
             );
 
             listBoxStudents.Items.Add(st);
+            MessageBox.Show("✅ Студента успішно додано!");
         }
 
         private void button1_Click(object sender, EventArgs e)
